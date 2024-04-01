@@ -1,0 +1,15 @@
+[submodule "odysseus-session"]
+	path = odysseus-session
+	url = https://github.com/sdkjkdjdkjdjd/odysseus-session
+[submodule "odysseus-dock"]
+	path = odysseus-dock
+	url = https://github.com/sdkjkdjdkjdjd/odysseus-dock
+[submodule "odysseus-launcher"]
+	path = odysseus-launcher
+	url = https://github.com/sdkjkdjdkjdjd/odysseus-launcher
+[submodule "odysseus-desktop"]
+	path = odysseus-desktop
+	url = https://github.com/sdkjkdjdkjdjd/odysseus-desktop
+[submodule "iliad"]
+	path = iliad
+	url = https://github.com/sdkjkdjdkjdjd/iliad
