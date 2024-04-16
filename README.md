@@ -5,4 +5,4 @@ Currently very WIP and unstable hobby desktop environment made using Qt Quick.
 
 (**Do not install or use this DE as it is very UNSTABLE as far as I have concluded from testing it in some VM's. It seems to work nearly fine on Linux Mint though.**)
 
-![Screenshot](https://raw.githubusercontent.com/sdkjkdjdkjdjd/odysseus/master/screenshot.png?token=GHSAT0AAAAAACRANUQRFQETSJS3LRWEXQ2UZQ6WOLQ)
+![Screenshot](https://raw.githubusercontent.com/odysseusdesktop/odysseus/master/screenshot.png?token=GHSAT0AAAAAACRANUQQWLGRJYR2MAJJYA76ZQ6W23A)
