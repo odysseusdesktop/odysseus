@@ -10,12 +10,12 @@
 [submodule "odysseus-desktop"]
 	path = odysseus-desktop
 	url = https://github.com/sdkjkdjdkjdjd/odysseus-desktop
-[submodule "iliad"]
-	path = iliad
-	url = https://github.com/sdkjkdjdkjdjd/iliad
 [submodule "odysseus-qt-plugins"]
 	path = odysseus-qt-plugins
 	url = https://github.com/sdkjkdjdkjdjd/odysseus-qt-plugins
 [submodule "odysseus-kwin-plugins"]
 	path = odysseus-kwin-plugins
 	url = https://github.com/sdkjkdjdkjdjd/odysseus-kwin-plugins
+[submodule "libodysseus-system"]
+	path = libodysseus-system
+	url = https://github.com/sdkjkdjdkjdjd/libodysseus-system
